@@ -112,8 +112,45 @@ learing Flow :-
              2. Unorder list (ul) - for storing  data we used <li> - list item
              3. dl - for storing data we used <dd> - description data, 
                    - <dt> - description term.
+           HTML Form :-
+             - as per our normoal form or google form, HTML also provide a form like struture to desigen our web page.
+             - the main element of HTML is <form> tag.
+             - inside <form> tag we have two imp. elements like <lable> and <input> tags. 
 
+           Some important input types like :-
+
+             - <input type="text">
+             - <input type="email">
+             - <input type="password">
+             - <input type="checkbox">
+             - <input type="radio">
+             - <input type="range">
+             - <input type="search">
+             - <input type="button">
+             - <input type="color">
+             - <input type="date">
+             - <input type="file">
+             - <input type="image">
+             - <input type="number">
+             - <input type="time">
+             - <input type="url">
+             - <input type="tel">        
+
+            HTML block elements and inline elements :-
+
+             - Block Level elements :-
+              - a block level element always starts with a new line.
+              - it takes full width as per the device size.
+              - commenlly used block level elements are ................
+              - it helps mostly for the designing purpose for design the specific part of a web-page.
+                 exp. <p>, <div>, <header>, <footer>, <section> ,<navbar>,<main>, <table>, <form> etc.. 
+
+             - Inline Elements :-
+              - it doesn't st. with new line.
+              - it takes space as much as it necessary.
+              -some imp. inline elements are <span>, <a> etc........
+              
            GitHub :-
             - it is a ope source version control system where we can store ur codes, we can see other other developers code & 
               we can build a project by collaborating other peoples .
-            -           
+                      
